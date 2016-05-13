@@ -5,7 +5,6 @@ The principle of work is the same.
 Differences:
 
 * AngryCurl and RollingCurl joined into one class
-* 
 * Added new methods:
 get_alive_proxy() - return array of alive proxy, after proxy check.
 clear_proxy() - clear proxy list.
